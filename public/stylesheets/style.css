@@ -6,3 +6,12 @@ body {
 a {
   color: #00b7ff;
 }
+
+.celebrityName {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 10px 0 0 10px;
+  margin: 10px 0 10px 0;
+  
+}
